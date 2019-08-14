@@ -4,12 +4,12 @@ Official repository for WeChainCoin (WXTC) (www.wechaincoin.info).
 
 * Official homepage: [wechaincoin](http://www.wechaincoin.info/)
 * Official repository: [wechaincoin GitHub](https://github.com/wechaincoin)
-* Official Discord: [wechaincoin Discord](http://discord.gg/EmGDEQJ)
+* Official Telegram: [wechaincoin Telegram EN](https://t.me/wechaincoin)
+* Official Discord: [wechaincoin Discord](https://discord.gg/mertrYb)
 * Official Facebook: [wechaincoin Facebook](https://www.facebook.com/wechaincoin)
-* Official Twitter: [wechaincoin Twitter](https://twitter.com/wechaincoin)
-* Official Telegram: [wechaincoin Telegram BR](http://t.me/egame_cash_br)
-* Official Telegram: [wechaincoin Telegram EN](http://t.me/egame_cash_en)
-* Official Block explorer: [wechaincoin Block explorer](http://explorer.wechaincoin.info/)
+* Official Twitter: [wechaincoin Twitter](https://twitter.com/WechainC)
+* Official Instagram: [wechaincoin Instagram](https://www.instagram.com/wechaincoin/)
+* Official Block explorer: [wechaincoin Block explorer](http://31.220.56.249/)
 
 
 ## Details
