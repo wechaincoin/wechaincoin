@@ -27,3 +27,6 @@ wechaincoin [WXTC] is an ASIC resistant CryptoNightLite V1 algorithm based crypt
   - __Reserved for Social Projects__: 15,000,000,000
   - __Giveaways__: 5,000,000,000
   - __Minimun transaction fee__: 0.01 WXTC 
+  - __Reward per Block__: 23,803.253 WXTC and going down
+  - __Block Time__: 120 seconds
+  - __Difficulty adjustment__: Every Block
