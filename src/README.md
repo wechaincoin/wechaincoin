@@ -71,7 +71,7 @@ sudo apt-get install -y build-essential python-dev gcc g++ git cmake librocksdb-
 **2. Get the coin**
 
 ``
-git clone https://github.com/wechaincoin/wechaincoin-node-daemon.git wechaincoin-daemon
+git clone https://github.com/wechaincoin/wechaincoin/tree/master/src/wechaincoin_source-code.git wechaincoin-daemon
 ``
 
 **3. CHMOD**
@@ -79,8 +79,7 @@ git clone https://github.com/wechaincoin/wechaincoin-node-daemon.git wechaincoin
 - navigate to:
 
 ``
-cd wechaincoin-daemon/external/rocksdb/build_tools
-``
+cd wechaincoin-daemon/wechaincoin_source-code/external/rocksdb/build_tools ``
 
 - execute the following commands:
 
